@@ -1,36 +1,28 @@
-# advanced-java
-Advanced Java projects utilizing JDBC
+ Advanced Java GUI Projects 
 
-# Advanced Java GUI Projects 🚀
+This repository contains Java GUI applications built using Swing.
 
-This repository encompasses advanced Java projects developed using the Swing (GUI) framework.
+Projects Included
 
----
+ Login GUI
+- Username & password validation  
+- Displays login success/failure  
 
- Projects Included
-
- Login System GUI
-- Facilitates user login through username and password input
-- Validates user credentials
-- Displays success or error messages
  Student Form GUI
-- Accepts student name and marks as input
-- Displays entered data
-- Demonstrates form handling capabilities
+- Takes student input  
+- Displays entered data  
 
-
- Calculator GUI
-- Provides a button-based calculator interface
-- Performs basic arithmetic operations (+, -)
-- Includes clear and equal functionality
-
+Calculator GUI
+- Button-based calculator  
+- Supports addition & subtraction  
 
  Technologies Used
-- Java
+- Java  
 - Swing (GUI)
+
  Purpose
-To construct practical Java applications and enhance GUI development proficiency.
+To build real-world GUI applications using Java.
+
 
 ## 👩‍💻 Author
-Sneha Sharma
-Computer Science Student
+Sneha Sharma  
